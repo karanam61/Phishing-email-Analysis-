@@ -1,7 +1,7 @@
 Phishing Alert 1 :
 
 ![A screenshot of a computer error AI-generated content may be
-incorrect.](images/media/image1.png){width="6.5in" height="2.9in"}
+incorrect.](images/media/image1.png)
 
 We have all the information mentioned in the this screenshot in our
 investigation channel .
@@ -17,12 +17,10 @@ Gecko) Chrome/79.0.3945.88 Safari/537.36
 Log Management :
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image2.png){width="6.5in"
-height="2.479861111111111in"}
+incorrect.](images/media/image2.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image3.png){width="6.5in"
-height="2.5256944444444445in"}
+incorrect.](images/media/image3.png).
 
 In the log management console we find 2 logs belonging to the
 destination IP address . One a firewall log , the other one a proxy both
@@ -38,14 +36,13 @@ Url -
 <http://mogagrocol.ru/wp-content/plugins/akismet/fv/index.php?email=ellie@letsdefend.io>
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image4.png){width="6.5in" height="3.19375in"}
+incorrect.](images/media/image4.png)
 
 10 out 97 vendors flag this is as a malicious url but blindly believing
 on this is naivity . So lets further analyze in different platforms .
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image5.png){width="6.5in"
-height="3.1333333333333333in"}
+incorrect.](images/media/image5.png)
 
 Now this where we can flag this url suspicious as its main Ip is located
 in Russian federation and its contacting 6 IPS in 2 countries . Lets
@@ -65,14 +62,12 @@ payload to execute .
 With all this information I concluded that this is a phishing Url .
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image6.png){width="6.5in"
-height="3.5555555555555554in"}
+incorrect.](images/media/image6.png)
 
 Next part is
 
 ![A screenshot of a computer screen AI-generated content may be
-incorrect.](images/media/image7.png){width="6.5in"
-height="4.0368055555555555in"}
+incorrect.](images/media/image7.png)
 
 Clearly, we can see the url was accessed by Emily and I've already
 listed out the other things . One important factor here is that the
@@ -80,17 +75,14 @@ request is not blocked but was allowed . So the url is accessed and we
 need to contain the end point .
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image8.png){width="6.5in"
-height="2.5722222222222224in"}
+incorrect.](images/media/image8.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image9.png){width="6.5in"
-height="3.1444444444444444in"}
+incorrect.](images/media/image9.png)
 
 Lets check if the analysis is right or wrong .
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image10.png){width="6.5in"
-height="2.702777777777778in"}
+incorrect.](images/media/image10.png)
 
 So the analysis is right .
