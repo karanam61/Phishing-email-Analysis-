@@ -12,16 +12,13 @@ The SMTP seems to be fine as it is from the Google MX server aswell.
 Email header analysis.
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image1.png){width="6.5in"
-height="3.6777777777777776in"}
+incorrect.](images/media/image1.png)
 
 ![A screenshot of a computer code AI-generated content may be
-incorrect.](images/media/image2.png){width="6.5in"
-height="2.696527777777778in"}
+incorrect.](images/media/image2.png)
 
 ![A computer screen shot of a computer code AI-generated content may be
-incorrect.](images/media/image3.png){width="6.5in"
-height="3.3756944444444446in"}
+incorrect.](images/media/image3.png)
 
 The first thing that is a bit suspicious is the return path and from
 address . Although its common to have we will run through it WHOIS. I
@@ -42,21 +39,17 @@ process .
 Can clearly see in Virus total that this is a case of phishing .
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image4.png){width="6.5in"
-height="3.3402777777777777in"}
+incorrect.](images/media/image4.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image5.png){width="6.5in"
-height="3.4305555555555554in"}
+incorrect.](images/media/image5.png)
 
 Here you go , this proves that it is a malicious phishing email .
 
 Questions :
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image6.png){width="6.5in"
-height="2.4541666666666666in"}
+incorrect.](images/media/image6.png)
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](images/media/image7.png){width="6.5in"
-height="3.4923611111111112in"}
+incorrect.](images/media/image7.png)
