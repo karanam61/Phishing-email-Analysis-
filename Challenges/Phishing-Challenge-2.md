@@ -111,5 +111,3 @@ MITRE ATT&CK T1566.001 – Phishing: Attachment
 MITRE ATT&CK T1204 – User Execution
 
 NIST CSF Respond → Recover – containment at the endpoint and resolution of the incident.
-![A screenshot of a computer AI-generated content may be
-incorrect.](images1/media/image10.png)
